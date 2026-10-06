@@ -1,0 +1,124 @@
+﻿{
+    "generatedAt":  "2026-09-20T07:59:29.4980629Z",
+    "mode":  "gdal-statistics",
+    "sourceDirectory":  "storage/app/geospatial/raw",
+    "gdalInfo":  "C:\\Program Files\\QGIS 3.38.2\\bin\\gdalinfo.exe",
+    "years":  {
+                  "2023":  {
+                               "ndvi":  {
+                                            "min":  -1,
+                                            "mean":  0.64376413416439,
+                                            "max":  0.97225660085678,
+                                            "stdDev":  0.18265020308895,
+                                            "validPercent":  42.69,
+                                            "noData":  -9999,
+                                            "file":  "ndvi_2023.tif"
+                                        },
+                               "lst":  {
+                                           "min":  23.128333333333,
+                                           "mean":  27.715253834764,
+                                           "max":  35.2725,
+                                           "stdDev":  1.4007995133511,
+                                           "validPercent":  42.53,
+                                           "noData":  null,
+                                           "file":  "lst_2023.tif"
+                                       },
+                               "pressure":  {
+                                                "min":  0,
+                                                "mean":  0.29304574672575,
+                                                "max":  0.94570833444595,
+                                                "stdDev":  0.13782553061922,
+                                                "validPercent":  42.53,
+                                                "noData":  null,
+                                                "file":  "pressure_2023.tif"
+                                            }
+                           },
+                  "2024":  {
+                               "ndvi":  {
+                                            "min":  -1,
+                                            "mean":  0.61165743906083,
+                                            "max":  1,
+                                            "stdDev":  0.20931229124019,
+                                            "validPercent":  40.3,
+                                            "noData":  null,
+                                            "file":  "ndvi_2024.tif"
+                                        },
+                               "lst":  {
+                                           "min":  22.678,
+                                           "mean":  26.367312465628,
+                                           "max":  31.764,
+                                           "stdDev":  1.1062060417767,
+                                           "validPercent":  42.53,
+                                           "noData":  null,
+                                           "file":  "lst_2024.tif"
+                                       },
+                               "pressure":  {
+                                                "min":  0,
+                                                "mean":  0.24699213613867,
+                                                "max":  0.88819998502731,
+                                                "stdDev":  0.13512946301248,
+                                                "validPercent":  40.15,
+                                                "noData":  null,
+                                                "file":  "pressure_2024.tif"
+                                            }
+                           },
+                  "2025":  {
+                               "ndvi":  {
+                                            "min":  -1,
+                                            "mean":  0.61135034413201,
+                                            "max":  1,
+                                            "stdDev":  0.21929439358891,
+                                            "validPercent":  41.73,
+                                            "noData":  null,
+                                            "file":  "ndvi_2025.tif"
+                                        },
+                               "lst":  {
+                                           "min":  22.513333333333,
+                                           "mean":  25.831086155635,
+                                           "max":  30.9625,
+                                           "stdDev":  0.96800867143475,
+                                           "validPercent":  42.53,
+                                           "noData":  null,
+                                           "file":  "lst_2025.tif"
+                                       },
+                               "pressure":  {
+                                                "min":  0,
+                                                "mean":  0.21855684084666,
+                                                "max":  0.84812498092651,
+                                                "stdDev":  0.13648059456476,
+                                                "validPercent":  41.56,
+                                                "noData":  null,
+                                                "file":  "pressure_2025.tif"
+                                            }
+                           },
+                  "2026":  {
+                               "ndvi":  {
+                                            "min":  -1,
+                                            "mean":  0.67068104827289,
+                                            "max":  0.98556619882584,
+                                            "stdDev":  0.17757079632395,
+                                            "validPercent":  42.71,
+                                            "noData":  null,
+                                            "file":  "ndvi_2026.tif"
+                                        },
+                               "lst":  {
+                                           "min":  23.424166666667,
+                                           "mean":  26.137172983871,
+                                           "max":  32.376363636364,
+                                           "stdDev":  0.93192531829781,
+                                           "validPercent":  42.53,
+                                           "noData":  null,
+                                           "file":  "lst_2026.tif"
+                                       },
+                               "pressure":  {
+                                                "min":  0,
+                                                "mean":  0.19490035018596,
+                                                "max":  0.87988096475601,
+                                                "stdDev":  0.12356053526341,
+                                                "validPercent":  42.53,
+                                                "noData":  null,
+                                                "file":  "pressure_2026.tif"
+                                            }
+                           }
+              }
+}
